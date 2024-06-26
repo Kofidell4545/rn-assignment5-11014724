@@ -50,7 +50,7 @@ const HomeScreen = () => {
           {/* icon section*/}
           <View
             style={{
-              backgroundColor: isDarkTheme ? "#333" : "#F2F2F2",
+              backgroundColor: isDarkTheme ? "white" : "#F2F2F2",
               marginRight: 20,
               borderRadius: 17,
               padding: 10,
@@ -83,7 +83,7 @@ const HomeScreen = () => {
           <View style={{ alignItems: "center" }}>
             <View
               style={{
-                backgroundColor: isDarkTheme ? "#333" : "#F2F2F5",
+                backgroundColor: isDarkTheme ? "white" : "#F2F2F5",
                 padding: 30,
                 borderRadius: 40,
               }}
@@ -105,7 +105,7 @@ const HomeScreen = () => {
           <View style={{ alignItems: "center" }}>
             <View
               style={{
-                backgroundColor: isDarkTheme ? "#333" : "#F2F2F2",
+                backgroundColor: isDarkTheme ? "white" : "#F2F2F2",
                 padding: 30,
                 borderRadius: 40,
               }}
@@ -126,7 +126,7 @@ const HomeScreen = () => {
           <View style={{ alignItems: "center" }}>
             <View
               style={{
-                backgroundColor: isDarkTheme ? "#333" : "#F2F2F2",
+                backgroundColor: isDarkTheme ? "white" : "#F2F2F2",
                 padding: 30,
                 borderRadius: 40,
               }}
@@ -147,7 +147,7 @@ const HomeScreen = () => {
           <View style={{ alignItems: "center" }}>
             <View
               style={{
-                backgroundColor: isDarkTheme ? "#333" : "#F2F2F2",
+                backgroundColor: isDarkTheme ? "white" : "#F2F2F2",
                 padding: 30,
                 borderRadius: 40,
               }}
@@ -186,7 +186,6 @@ const HomeScreen = () => {
                   color: isDarkTheme ? "#fff" : "#000",
                 }}
               >
-                {" "}
                 Transaction
               </Text>
             </View>
@@ -216,7 +215,7 @@ const HomeScreen = () => {
                 {/* Image */}
                 <View
                   style={{
-                    backgroundColor: isDarkTheme ? "#333" : "#F2F2F2",
+                    backgroundColor: isDarkTheme ? "white" : "#F2F2F2",
                     marginLeft: 19,
                     padding: 20,
                     borderRadius: 40,
