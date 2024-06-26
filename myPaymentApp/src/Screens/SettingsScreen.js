@@ -90,7 +90,6 @@ const SettingsScreen = () => {
                 color: isDarkTheme ? "#fff" : "#000",
               }}
             >
-              {" "}
               My Profile
             </Text>
           </View>
